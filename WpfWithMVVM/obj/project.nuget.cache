@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRPQnLraPX4rsGAV7Xjfybiylg6hr6EZRTSBNj8K+v4FpgUkW3V5gznuoBQMqoGrrF+JLBjEocQTZCF+pKfPmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\choby\\source\\repos\\WpfWithMVVM\\WpfWithMVVM\\WpfWithMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\choby\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
